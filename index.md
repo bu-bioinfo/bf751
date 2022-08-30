@@ -2,17 +2,15 @@
 permalink: /
 ---
 
-{% include_relative README.md %}
-
-# Course Name
+# BF 751 Molecular Biology and Biochemistry for Bioinformatics
 
 Course description
 
-**Semester:** Spring 2196
+**Semester:** Fall 2022
 
 **Location:** Room number
 
-**Day/Time:** Day/Time
+**Day/Time:** M/W 10:10a-11:15a
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructors</a>
