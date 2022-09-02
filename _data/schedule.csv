@@ -1,44 +1,91 @@
-Date,Day,Lec,Guiding Question,Topic,Topic Tag,Topic Slide Link,Instructor,Assignment,Assignment Tag,Secondary Tag
-9/7/2022,W,1,Is racism endemic in science?,Intro/Culture <-> Science Feedback Loop,intro,https://docs.google.com/presentation/d/e/2PACX-1vTPdmKxMhPcIyxFHsmR84fcSZpzoa2j1mvmc4QBgCGKxm4s31f5Qb6a1pP-Ua_1ic5ML1XDZ_KgyIAz/pub,Melisa,Annotate,annotate,the-instrument
-9/9/2022,F,2,Is racism endemic in science?,Course Structure/The Instrument,the-instrument,https://docs.google.com/presentation/d/e/2PACX-1vTzMSU7fqgE41O3Oee5jqEWdBcbuyLru61Awq2ERtpBVufTe6tICit8MGE6dRP1cwo-NbU7gZfJEYd8/pub,Melisa,Starburst Identity Chart (see Perusall),,
-9/12/2022,M,3,Is racism endemic in science?,Discussion: Types of Human Biases/CourseTeam,discussion-01,https://docs.google.com/presentation/d/e/2PACX-1vTXp6nJR3eYfqLNCAHcD_61RKC6t2jp_ySArFxI-CPfFFBdK-AFN1D6uSlyA6Qn2u2BMgvMlhpK6RMX/pub,Melisa,Annotation Due,,
-9/14/2022,W,4,Is race biological?,Linnaeus & His Legacy,linnaeus,https://docs.google.com/presentation/d/e/2PACX-1vRsUMe1fkSBJv1ujIM-jnZcJJ0M5fq-Jr2MVRJC73cxyOGBlUyH6dwd77jfbciBHettMV8xXclT_c5f/pub,Melisa,Annotate,annotate,
-9/16/2022,F,5,Is race biological?,"The Gene, the Central Dogma and Mendelian Inheritence",the-gene,https://docs.google.com/presentation/d/e/2PACX-1vSFLzyFfq1Xoxaedh6-1zWFg8RQHbJG0f2snTZiRxt1Yejc8kKDmIPR7tIJ_mcbydZ_K2zlGpLMEyvW/pub,Melisa,,,
-9/19/2022,M,6,Is race biological?,Discussion - Sickle Cell Disease,discussion-02,https://docs.google.com/presentation/d/e/2PACX-1vTpGDxs6wdm24itoNsQR6zaMc7UhVLGHm2Z5_rhexmE0kx5wKFpZ8sElWhj5QDPevMcnzsX_dGrpA0-/pub,Melisa,Annotation due; Case Study 1 Assigned,case-study-1,human-genetics
-9/21/2022,W,7,Genes and context for eugenics,Discussion - Sickle Cell Disease Part II,eugenics,https://docs.google.com/presentation/d/e/2PACX-1vRQTzVSuaPIM6EBjdB6p-zTWkITO08z2aYqw9881mSvcSRYpoloxKef0vbpdqzg4GgJBM0z71wWsnG6/pub,Melisa,Annotate,,
-9/23/2022,F,8,Genes and context for eugenics,Galton & The Eugenics Movement,human-genetics,https://docs.google.com/presentation/d/e/2PACX-1vQSNSOS5QoKLuglU3CwYf_HpQtZGKEw5oBt3qA32UfdOWFPGeRBC4GlP8xrsOAOBx6vDVmcxys4x6Kd/pub,Melisa,,,the-human-genome
-9/26/2022,M,9,Genes and context for eugenics,Discussion (Case studies),discussion-03,https://docs.google.com/presentation/d/e/2PACX-1vQFABqDl4pmaCM3jkeQuyutSlOucEoQmcGLVYePRNJEwCqeWKHU0r1cpBRWbe3346pis_uy1jq5Iq2i/pub,Melisa,Case Study 1 Analyses Due/Annotation Due,case-study-1,
-9/28/2022,W,10,Eugenics and Modern Race Science,Return of Race Science & The Biology of Skin Color,race-science,https://docs.google.com/presentation/d/e/2PACX-1vShqegMt0z7Uc2c65TRpAVPgzHk5KYnX-K8NYxzScBTOY_Ec-hgsO4fMqX-yQ_CgjAHGRxHmi0YajDm/pub,,Annotate,annotate,
-9/30/2022,F,11,Eugenics and Modern Race Science,Human Genomics & The 1000 Genomes Project,the-human-genome,https://docs.google.com/presentation/d/e/2PACX-1vQDWrCjmiWr017lvSJmbhY5LNjqTW2FMEucf1z_OAF8KJ_xAGCfzKxtLYU_i1FEpwtJACpEbASRnDhR/pub,Melisa,,,genetic-testing
-10/3/2022,M,12,Eugenics and Modern Race Science,Discussion,discussion-04,https://docs.google.com/presentation/d/e/2PACX-1vSQjU3NqLs3494AY0OFf6B7wN58bFJOXluWClrkdkTkTQ8Ul6EuZyyQJzTYmG8SPanpINkZ89TZ2dWV/pub,Melisa,Annotation due,annotate,
-10/5/2022,W,13,The Genetics of IQ and Correlation versus Causation,Measuring Intelligence - Science and Society,measuring-intelligence,https://docs.google.com/presentation/d/e/2PACX-1vTkIf0mYijMoS6rVViA7adHWDl9wdJD1dRh5T5NGWShgx2CTOjLm5lJ1E9g7IoXzCLauXvvi08MqWWG/pub,Adam,Annotate,,genetics-vs-epigenetics
-10/7/2022,F,14,The Genetics of IQ and Correlation versus Causation,Genome Wide Association/Genetic Testing,genetic-testing,https://docs.google.com/presentation/d/e/2PACX-1vRJasfaTzEDfVO46HsGwgoPeKg4FgH4ehr-jVwkIn17zeNMTL2rzl4pofApZI1EYl5tStK2rUNxtGqn/pub,Adam,,,
-10/11/2022,T*,15,The Genetics of IQ and Correlation versus Causation,Discussion,discussion-05,https://docs.google.com/presentation/d/e/2PACX-1vTY3Sm7qKTvw_pkR51DMx2b3s6dDh-tvxXP9Upj4SAgGhu-Jin6zzEq7zR8tXZkPRaerOpGpaM_-Zxc/pub,Adam,Annotation due,annotate,
-10/12/2022,W,16,Genes and Epigenetics,Synthesis/Case Study Feedback/Intro to Epigenetics,acquired-vs-inherited-traits,https://docs.google.com/presentation/d/e/2PACX-1vRsGsxeM1tuWxxXQdFv_CF9oQt8JGTJMDjsPgv_bztaVZnt9314f3E71oc5-bHBAcGMLu9uNE2I-aZL/pub,Melisa,,,environment
-10/14/2022,F,17,Genes and Epigenetics,Intro to Epigenetics (Epigenetic mechanisms; tools for studying epigenetics),genetics-vs-epigenetics,https://docs.google.com/presentation/d/e/2PACX-1vTNk_ILxDtskYz3BP3_Rq1c-ZHdKQRPv-l8laeW2zXwGRzXI23VsLens3gXdztSnP01FG-Yzna9_Qx2/pub,Melisa,,,
-10/17/2022,M,18,Genes and Epigenetics,Discussion - Race and Epigenetics,discussion-06,https://docs.google.com/presentation/d/e/2PACX-1vRe3x7tDs7XwmMxLAHYdEbsUSwDHVXrJy-VCcB2oF3HbLAG5Syku8PCloglfZl4hJ4Cg8UuslV29fHF/pub,Melisa,Annotation due/Assign Case Study 2,analyze,stress-biology
-10/19/2022,W,19,Epigenetics and Context for Health Care,Epigenetics in Human Health,epigenetics,https://docs.google.com/presentation/d/e/2PACX-1vTgAaA7TfdWT9SW0YNa0nAA_QlLC9JtIesPT9uHTpFQW525Kpxic0lw0pnAd6m1CaXT9SsxVott9jDZ/pub,Melisa,,,
-10/21/2022,F,20,Epigenetics and Context for Health Care,Environmental Effects & Toxicity,environment,https://docs.google.com/presentation/d/e/2PACX-1vRxjlIFvN523g8R-d6pqXnYdv2bobAQSYYnKus_Yc4v446Xgphmu0S9aBk3Dxk17nigFmg-k-_rSo3v/pub,Melisa,,,correcting-for-race
-10/24/2022,M,21,Epigenetics and Context for Health Care,Discussion,discussion-07,https://docs.google.com/presentation/d/e/2PACX-1vQwD8Nlwcl_j4j13RBbf4p2yRaLQeCFeujQ6b-t03bbVtdsHpwR3Do9nVGId0-XiPHKL6EW-WNnWK0C/pub,Melisa,Annotate/Case Study 2 Due,,
-10/26/2022,W,22,Biological Effects of Chronic Stress,Sources and Types of Stress,stress-sources,https://docs.google.com/presentation/d/e/2PACX-1vS-kBx_nrGTkaRlC2-JWigVx7nzr8HclPH8DdIJk0LMllw9uuh5F6mIuIWLpOrtNc79rYmM16NLPkG_/pub,Melisa,,,race-correction-and-health
-10/28/2022,F,23,Biological Effects of Chronic Stress,Biological Effects of Chronic Stress,stress-biology,https://docs.google.com/presentation/d/e/2PACX-1vSHiaMRQjxC7afdgtRW5b7UspenY4-POUCvQq-oJ0vcOkBrx2Kh72ucY-ieuGc0yx8hMPZ1M4xkxd8R/pub,Melisa,,,
-10/31/2022,M,24,Biological Effects of Chronic Stress,Discussion,discussion-08,https://docs.google.com/presentation/d/e/2PACX-1vSMjSm3hhQzTKdQ504sgHj8ozEz9OtJ47rqFQeqx50BQMVDBhbbdIUvR1xhTXVTZQuBUksAH-uP52wJ/pub,Melisa,Annotation Due/Case Study 3 Assigned,,economic-inheritance
-11/2/2022,W,25,Algorithmic Bias,Algorithmic Bias,algorithmic-bias,https://docs.google.com/presentation/d/e/2PACX-1vRRsld73QU6uZvJl56eMiEcn6aq4RFUMKO5VggWfBkNjgwt5e7OLxIYpY3gWpyo4zpeRElQTG5eT9Jp/pub,Adam,Case Study 3 Due/Proposal Due,synthesize,
-11/4/2022,F,26,Algorithmic Bias,Mitigating Algorithmic Bias,correcting-for-race,https://docs.google.com/presentation/d/e/2PACX-1vRs10Z4-NrOgg_kJMYy4FwLc3u1G05vUtFQG_YrAZNVQHgGTcoen-b4om9ApDkOUkir7ilQp8N9kCQ0/pub,Adam,,,increasing-diversity
-11/7/2022,M,27,Final Project Role Out,Discussion,discussion-09,https://docs.google.com/presentation/d/e/2PACX-1vQQOROPkDdZVhh1ETLwZKviN2dY6bPPCN1cqYYvmsIzEu4xlTO26tQ8RpDS2p_s8w_uVlD_XRHXdoUX/pub,Melisa,Project Proposal Assigned,project,
-11/9/2022,W,28,Racism in Healthcare - from Predisposition to Patient Treatment,Data in Healthcare,data-in-healthcare,https://docs.google.com/presentation/d/e/2PACX-1vSZLggKX5Tlf2tC1brga-QyTxJFuJdR6oqDps6Qtc4pwIi3OqJzBeR2Y5j7xygN3NvRL19pAq3RVXpm/pub,Adam,,,
-11/11/2022,F,29,Racism in Healthcare - from Predisposition to Patient Treatment,Race-Correction and Health Disparities,race-correction-and-health,https://docs.google.com/presentation/d/e/2PACX-1vT1g0B3iKt5TSVvqmoef-quOs7qtMaQyjed9pVBOArjo4OwdkXsNAOfZVeyHHdT_q7Vuqe1718WE4qw/pub,Adam,,,
-11/14/2022,M,30,Racism in Healthcare - from Predisposition to Patient Treatment,Discussion,discussion-10,https://docs.google.com/presentation/d/e/2PACX-1vTu4hTp7t14MCvh3_kl_N6BVvFzeFPpCEh_MX8n65JHPcmppPWS-VP6XrnuFuszngqjauJ8t8vTNYOO/pub,Adam,Case Study 3 Due,,
-11/16/2022,W,31,Reversing the Biological Effects of Racism,Socio-economic-environmental Factors,socio-economic-environ,https://docs.google.com/presentation/d/e/2PACX-1vTRNpTQBcIhHoYzjRGpG-Mc-Tj3C-44asoxTflrANzJEMj09pvIvo18CNtyk0h2OVFP4SElN2ly0Pmd/pub,Felicity,,,
-11/18/2022,F,32,Reversing the Biological Effects of Racism,"""Economic Inheritance"" - Generational Wealth",economic-inheritance,https://docs.google.com/presentation/d/e/2PACX-1vQ6FwJML-MTZGaNiMUGQG-kE-eqR9dRtz5x5FG9M0cPImEdH4zxv1St7PUSxev0J3cABpqnX8ePakAx/pub,Felicity,,,
-11/21/2022,M,33,Reversing the Biological Effects of Racism,Changing the Status Quo (Discussion),discussion-11,https://docs.google.com/presentation/d/e/2PACX-1vTqK-uX8_QrP5Vh-_sSue4xOBVdlbNdqgULnkepvBAvUrgh1aBw4aJj6hLCwMiLaOR2wv7uECATRFkP/pub,Felicity,Project Proposal Due,project,
-11/23/2022,W,,No class,Thanksgiving break,,,,,,
-11/25/2022,F,,No class,Thanksgiving break,,,,,,
-11/28/2022,M,35,Science Communication - A Weapon Against Racism,Teaching Science and Anti-Racism,,,TJ,,,
-11/30/2022,W,36,Science Communication - A Weapon Against Racism,Sense Making,,,TJ,,,
-12/2/2022,F,37,Science Communication - A Weapon Against Racism,Discussion,,,TJ,,,
-12/5/2022,M,38,Project Presentations/Discussion,Presentations Day 1,,,,,,
-12/7/2022,W,39,Project Presentations/Discussion,Presentations Day 2,,,,,,
-12/9/2022,F,40,Project Presentations/Discussion,Presentations Day 3,,,,,,
-12/12/2022,M,41,,,,,,,,
-12/19/2022,M,,PROJECT DUE,,,,,Final Project Due,project,
+Date,Day,Lec,Guiding Question,Topic (s),Topic Tag,Topic Slide Link,Instructor,Reading,Problem Sets,Secondary Tag
+9/7/2022,W,1,Why should we care about bionumbers?,Scale/units,intro-01,https://docs.google.com/presentation/d/e/2PACX-1vTPdmKxMhPcIyxFHsmR84fcSZpzoa2j1mvmc4QBgCGKxm4s31f5Qb6a1pP-Ua_1ic5ML1XDZ_KgyIAz/pub,Melisa,"Why should we care about bionumbers?
+How to make back of the envelope calculations
+Order of magnitude tool kit
+Rigorous rules for sloppy calculations
+How big is an E. coli and what is its mass? Cohen “Mathematics Is Biology’s Next Microscope”",,
+9/12/2022,M,2,What's in a model cell?,Scale in a cell; metabolites and building blocks; error in bionumbers calcs,lecture-02,,Melisa,"Size and Geometry Introduction
+How big are viruses?
+How big is an E. coli and what is its mass?
+How big is a budding yeast cell?
+How big is a human cell?
+How big are nuclei?
+How big is the endoplasmic reticulum?
+What are the time scales for diffusion in the cell? (pp 211)
+Concentrations and Absolute Numbers Introduction
+What is the elemental composition of a cell?",,
+9/14/2022,W,3,Biomass of earth paper discussion,,discussion-03,,Melisa,"Bar-On, Phillips, and Milo.  (2018) The Biomass Distribution of Earth",annotate,
+9/19/2022,M,4,"What do cells need to grow?  What is biomass?
+How do nutrient requirements vary across models?
+What is logistic growth?","Enzyme kinetics review
+In vivo enzyme kinetics",lecture-04,,Melisa,"What quantities of nutrients need to be supplied in growth media? (pp 80)
+What is the concentration of bacterial cells in a culture? (pp 84)
+What are the concentration of ions in the cell (pp 91)
+What are the concentrations of free metabolites in cells? (pp 94)
+Rates:
+How many reactions do enzymes carry out each second? (pp215)
+How does temperature affect rates and affinities (pp 221)
+What are the rates of membrane transporters? (pp223)
+What are the rates of ion channels? (pp226).
+What is the turnover time of metabolites? (pp 228)",,human-genetics
+9/21/2022,W,5,Enzyme kinetics in metabolism,Enzyme kinetics in metabolism,discussion-05,,Melisa,Bennet et al 2009,,
+9/26/2022,M,6,What scale are energies measured on in biological systems?,Thermodynamics in Metabolism,lecture-06,,Melisa,"What is the thermal energy scale and how is it relevant to biology? (pp 155)
+What is the energy in a hydrogen bond? (pp 159)
+What is the free energy released upon the combustion of sugar? (pp 188)
+What is the power consumption of the cell? (pp 199)
+How much energy is released on ATP hydrolysis? (pp182)
+What is the energy transfer in a phosphate group? (pp185)",PS1 due,
+9/28/2022,W,7,Thermodynamics in Metabolism,Paper Discussion,discussion-07,,Melisa,"Park et al. 2016 “Metabolite concentrations, fluxes and free energies imply efficient enzyme usage.” 
+Principles of thermodynamic reaction coupling",,
+10/3/2022,M,8,"What molecular MACHINES are in a model cell?
+What machines are conserved across models?
+How are housekeeping genes useful in bioinformatic analyses?","The “machines” of the central dogma
+Overview of information transfer processes in the central dogma",lecture-08,,Melisa,"How big are biochemical nuts and bolts?
+Which is bigger mRNA or the protein it encodes for?
+How big is the ""average"" protein?
+How big are the molecular machines of the central dogma?
+Concentrations and Absolute Numbers Introduction
+How many ribosomes are in a cell?",,
+10/5/2022,W,9,Molecular Clocks in Biology,Molecular Clocks in Biology,discussion-09,,Melisa,Mapping the tree of life,,genetics-vs-epigenetics
+10/11/2022,T*,10,Introduce bio-numbers project,"Examples of previous projects
+Brainstorm bio-numbers calculation topics",Lecture-10,,Melisa,Review book intro and papers from Milo group on bionumbers,,
+10/12/2022,W,11,What is the global abundance of Rubisco?,Second Bionumbers paper example,Discussion-11,,Melisa,The Global Mass and Average Weight of Rubisco,,environment
+10/17/2022,M,12,"What is in a GENOME?
+How do genomes vary based on model organism?
+What is metagenomics?","Genomes - Introduction
+Genome replication
+Metagenomics",Lecture-12,,Melisa,"How big are genomes? (Information and Errors)
+How many chromosomes are found in different organisms? (Information and Errors)
+How many genes are in a genome? (Information and Errors)
+How long does it take cells to copy their genomes? (Rates and Durations)
+How many ribosomal copies gene copies are in the genome? (Miscelanny)",,stress-biology
+10/19/2022,W,13,What are limitations of metagenomics?,The Human Microbiome,Discussion-13,,Melisa,The Human Microbiome Project (Original Paper),,
+10/24/2022,M,14,"What is ""gene expression""?  Why is it a nuanced term?",Gene Expression,Leture-14,,Melisa,"How many mRNAs are in a cell? (pp120)
+How much variability exists in protein expression? (pp112)
+What is the protein to mRNA ratio? (pp124)
+How many transcription factors are in a cell? (pp132)
+What is the protein to mRNA ratio? (pp124)",,
+10/26/2022,W,15,"How does cellular ""noise"" affect gene expression?",Cellular Noise and Gene Expression,Discussion-15,,Melisa,Eldar and Elowitz 2010 “Functional Role for Noise in Genetic Circuits” ,,race-correction-and-health
+10/31/2022,M,16,What does transcriptomics leave out?,Gene expression => Translation,Lecture-16,,Melisa,"How many ribosomes are in the cell (pp 147)
+Which is faster transcription or translation? (pp 231)",,economic-inheritance
+11/2/2022,W,17,What does transcriptomics leave out?,In vivo translation,Discussion-17,,Melisa,Ingolia et al 2016 – Ribosome profiling,,
+11/7/2022,M,18,How do mistakes in the central dogma result in genetic variation?,"Mistakes in the central dogma
+Genetic variation => history of studying human genetic variation (science and society => biological racism)",Lecture-18,,Melisa,"Review: How many genes are in a genome (pp 291)
+What is the mutation rate during genome replication? (pp 297)
+What is the error rate in transcription and translation? (pp 303)
+What is the rate of recombination? (pp 306)
+How genetically similar are two random people? (pp 295)",,
+11/9/2022,W,19,How do mistakes in the central dogma result in genetic variation?,,Discussion-19,,Melisa,1000 genomes project publication from 2012,,
+11/14/2022,M,20,Synthesis of Genomes and Biochemistry,,Lecture-20,,Melisa,"What are the concentrations of free metabolites in cells? pp94
+What is the turnover time of metabolites? (pp 228)
+What is the redox potential of a cell? (pp189-196)",,
+11/16/2022,W,21,Synthesis of Genomes and Biochemistry,,Discussion-21,,,"Orth et al Flux Balance Analysis 
+Saifuddin et al 2019 Microbial Carbon Use Efficiency Predicted from Genome Scale Metabolic Models",,
+11/21/2022,M,,No class - offiice hours by appt,No class - offiice hours by appt,,,,,,
+11/23/2022,W,,No class - Thanksgiving break,No class - Thanksgiving break,,,,,,
+11/28/2022,M,,Project work day,Project work day,,,,,,
+11/30/2022,W,,Project work day,Project work day,,,,,,
+12/5/2022,M,,Project Presentations/Discussion,Presentations Day 1,,,,,,
+12/7/2022,W,,Project Presentations/Discussion,Presentations Day 2,,,,,,
+12/12/2022,M,,PROJECT DUE,,,,,,,
+,,,,,,,,Final Project Due,project,
