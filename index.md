@@ -76,6 +76,11 @@ list of prerequisites, if any
 ## Course Schedule <a class="tiny-link" href="#">Top</a>
 
 {% include_relative schedule.md %}
+  
+<a id="assigned reading">
+## Course Schedule <a class="tiny-link" href="#">Top</a>
+
+{% include_ reading.md %}
 
 <a id="grading">
 
