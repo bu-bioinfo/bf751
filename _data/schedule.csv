@@ -1,85 +1,29 @@
 Date,Day,Lec,Topic (s),Reading
-9/7/2022,W,1,Scale/units,"Why should we care about bionumbers?
-How to make back of the envelope calculations
-Order of magnitude tool kit
-Rigorous rules for sloppy calculations
-How big is an E. coli and what is its mass? Cohen “Mathematics Is Biology’s Next Microscope”"
-9/12/2022,M,2,Scale in a cell; metabolites and building blocks; error in bionumbers calcs,"Size and Geometry Introduction
-How big are viruses?
-How big is an E. coli and what is its mass?
-How big is a budding yeast cell?
-How big is a human cell?
-How big are nuclei?
-How big is the endoplasmic reticulum?
-What are the time scales for diffusion in the cell? (pp 211)
-Concentrations and Absolute Numbers Introduction
-What is the elemental composition of a cell?"
-9/14/2022,W,3,Bionumbers Intro,"Bar-On, Phillips, and Milo.  (2018) The Biomass Distribution of Earth"
-9/19/2022,M,4,"Enzyme kinetics review
-In vivo enzyme kinetics","What quantities of nutrients need to be supplied in growth media? (pp 80)
-What is the concentration of bacterial cells in a culture? (pp 84)
-What are the concentration of ions in the cell (pp 91)
-What are the concentrations of free metabolites in cells? (pp 94)
-Rates:
-How many reactions do enzymes carry out each second? (pp215)
-How does temperature affect rates and affinities (pp 221)
-What are the rates of membrane transporters? (pp223)
-What are the rates of ion channels? (pp226).
-What is the turnover time of metabolites? (pp 228)"
-9/21/2022,W,5,Enzyme kinetics in metabolism,Bennet et al 2009
-9/26/2022,M,6,Thermodynamics in Metabolism,"What is the thermal energy scale and how is it relevant to biology? (pp 155)
-What is the energy in a hydrogen bond? (pp 159)
-What is the free energy released upon the combustion of sugar? (pp 188)
-What is the power consumption of the cell? (pp 199)
-How much energy is released on ATP hydrolysis? (pp182)
-What is the energy transfer in a phosphate group? (pp185)"
+9/7/2022,W,1,Scale/units, Cohen “Mathematics Is Biology’s Next Microscope
+9/12/2022,M,2,Scale in a cell; Textbook: Size and Geometry
+9/14/2022,W,3,Bionumbers Intro, Phillips, and Milo.  (2018) The Biomass Distribution of Earth"
+9/19/2022,M,4, Enzyme Kinetics and Nutrients, Textbook: Concentrations & Rates
+9/21/2022,W,5,Enzyme kinetics in metabolism, Bennet et al 2009
+9/26/2022,M,6,Thermodynamics in Metabolism, Textbook: Thermal energy
 9/28/2022,W,7,Paper Discussion,"Park et al. 2016 “Metabolite concentrations, fluxes and free energies imply efficient enzyme usage.” 
-Principles of thermodynamic reaction coupling"
-10/3/2022,M,8,"The “machines” of the central dogma
-Overview of information transfer processes in the central dogma","How big are biochemical nuts and bolts?
-Which is bigger mRNA or the protein it encodes for?
-How big is the ""average"" protein?
-How big are the molecular machines of the central dogma?
-Concentrations and Absolute Numbers Introduction
-How many ribosomes are in a cell?"
+10/3/2022,M,8,"The “machines” of the central dogma", Textbook: Concentrations and Absolute Numbers Introduction
 10/5/2022,W,9,Molecular Clocks in Biology,Mapping the tree of life
-10/11/2022,T*,10,"Examples of previous projects
-Brainstorm bio-numbers calculation topics",Review book intro and papers from Milo group on bionumbers
+10/11/2022,T*,10, Examples of previous projects, Review book intro and papers from Milo group on bionumbers
 10/12/2022,W,11,Second Bionumbers paper example,The Global Mass and Average Weight of Rubisco
-10/17/2022,M,12,"Genomes - Introduction
-Genome replication
-Metagenomics","How big are genomes? (Information and Errors)
-How many chromosomes are found in different organisms? (Information and Errors)
-How many genes are in a genome? (Information and Errors)
-How long does it take cells to copy their genomes? (Rates and Durations)
-How many ribosomal copies gene copies are in the genome? (Miscelanny)"
+10/17/2022,M,12, Genomes and metagenomics, Chapter Information
 10/19/2022,W,13,The Human Microbiome,The Human Microbiome Project (Original Paper)
-10/24/2022,M,14,Gene Expression,"How many mRNAs are in a cell? (pp120)
-How much variability exists in protein expression? (pp112)
-What is the protein to mRNA ratio? (pp124)
-How many transcription factors are in a cell? (pp132)
-What is the protein to mRNA ratio? (pp124)"
+10/24/2022,M,14,Gene Expression, Textbook - Concentrations
 10/26/2022,W,15,Cellular Noise and Gene Expression,Eldar and Elowitz 2010 “Functional Role for Noise in Genetic Circuits” 
-10/31/2022,M,16,Gene expression => Translation,"How many ribosomes are in the cell (pp 147)
-Which is faster transcription or translation? (pp 231)"
-11/2/2022,W,17,In vivo translation,Ingolia et al 2016 – Ribosome profiling
-11/7/2022,M,18,"Mistakes in the central dogma
-Genetic variation => history of studying human genetic variation (science and society => biological racism)","Review: How many genes are in a genome (pp 291)
-What is the mutation rate during genome replication? (pp 297)
-What is the error rate in transcription and translation? (pp 303)
-What is the rate of recombination? (pp 306)
-How genetically similar are two random people? (pp 295)"
-11/9/2022,W,19,,1000 genomes project publication from 2012
-11/14/2022,M,20,,"What are the concentrations of free metabolites in cells? pp94
-What is the turnover time of metabolites? (pp 228)
-What is the redox potential of a cell? (pp189-196)"
-11/16/2022,W,21,,"Orth et al Flux Balance Analysis 
-Saifuddin et al 2019 Microbial Carbon Use Efficiency Predicted from Genome Scale Metabolic Models"
-11/21/2022,M,,No class - offiice hours by appt,
-11/23/2022,W,,No class - Thanksgiving break,
-11/28/2022,M,,Project work day,
-11/30/2022,W,,Project work day,
-12/5/2022,M,,Presentations Day 1,
-12/7/2022,W,,Presentations Day 2,
-12/12/2022,M,,,
-,,,,Final Project Due
+10/31/2022,M,16,Gene expression, Translation
+11/2/2022,W,17,In vivo translation,Ingolia et al 2016 Ribosome profiling
+11/7/2022,M,18, Genetic variation => history of studying human genetic variation; Textbook
+11/9/2022,W,19, Human Genetic Variation,1000 genomes project publication from 2012
+11/14/2022,M,20, Advanced metabolism, Textbook Concentrations
+11/16/2022,W,21, Carbon Use Efficiency, Saifuddin et al 2019 Microbial Carbon Use Efficiency Predicted from Genome Scale Metabolic Models
+11/21/2022,M,No class offiice hours by appt, no class
+11/23/2022,W,No class, Thanksgiving break,
+11/28/2022,M,Project work day, in class
+11/30/2022,W,Project work day, inclass
+12/5/2022,M,Presentations Day 1,
+12/7/2022,W,Presentations Day 2,
+12/12/2022,M,Final Project Due
