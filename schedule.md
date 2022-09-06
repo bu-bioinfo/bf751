@@ -37,7 +37,7 @@ just read the code :P).
         <td>
             {% if lec.Assignment %}
                 {% if lec["Assignment Tag" %}]
-                    <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
+                    <a href="{{ lec["Assignment Tag"] }}">{{ lec.Assignment }}</a>
                 {% else %}
                   {{ lec.Assignment }}
                 {% endif %}
