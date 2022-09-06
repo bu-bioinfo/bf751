@@ -33,7 +33,6 @@ Jump to:
 **Vignettes**
 
 * Size and Geometry Introduction
-
 * How big are viruses?
 * How big is an E. coli and what is its mass?
 * How big is a budding yeast cell?
@@ -44,7 +43,7 @@ Jump to:
 * Concentrations and Absolute Numbers Introduction
 * What is the elemental composition of a cell?
 
-**Weekly Discussion
+**Weekly Discussion**
 
 * [Bar-On, Phillips, and Milo.  (2018) The Biomass Distribution of Earth]()
 

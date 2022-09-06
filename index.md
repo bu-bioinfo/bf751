@@ -20,6 +20,7 @@ Course description
 * <a href="#grading">Grading</a>
 * <a href="#policies">Course Policies</a>
 * <a href="#resources">Student Resources</a>
+* <a href="library.html">Course Library</a>
 
 <a id="instructors">
 
@@ -123,22 +124,37 @@ present to the class about your calculation during the last week of class (times
 The written report will be due at the end of the final week of class (Friday).  Reports
 will be submitted via the BU blackboard site.  
 
+
 **Grading for the course is distributed among several components and assignments**
-Note – all final project components total to 40% of final grade.
+Note – all final project components total to 50% of final grade.
 
 
 |                   Item                        |  Point Value  |   % of final grade    |
 |-----------------------------------------------|---------------|-----------------------|
-|Problem Sets (Top 5 grades)                    |100 (5 x 20pts)|           50          |
+|Problem Sets (Top 4 grades)                    | 80 (4 x 20pts)|           40          |
 |Final Project Proposal*                        |       10      |            5          |
 |Final Project Abstract/Annotated Bibliography* |       10      |            5          |
 |Final Project Virtual Presentation*            |       20      |           10          |
-|Final Project Report*                          |       40      |           20          |
+|Final Project Report*                          |       60      |           30          |
 |Discussion Forum Participation (on Slack)      |       20      |           10          |
-|Total Points For Semester                      |      200      |          100          |
+|**Total Points For Semester**					|    **200**    |        **100**        |
  
 
-*All project assignments combined are 80pts (40% of grade)
+* All project assignments combined are 100pts (50% of grade) *
+
+
+## Assignment Due Dates
+
+|			Assignment 			|			Material			|	   Due Date 	|
+|-------------------------------|-------------------------------|-------------------|
+|Problem Set 1					|		 Intro and Scale		|  Monday, Sept 19	|
+|Problem Set 2					|		Kinetics and Energy		|  Monday, Oct 3	|
+|Bionumbers Topic Proposal		|								|  Friday, Oct 21	|
+|Problem Set 3					|	   Machines and Genomes		|  Monday, Oct 24 	|
+|Problem Set 4					| Transcription and Translation	|  Monday, Nov 7	|
+|Problem Set 5					| Advanced Metabolism & topics	|  Monday, Nov 21	|
+|Bionumbers Group Presentations	|								|Dec 5 & 7 in class	|
+|FInal Bionumbers Report		|								| Tuesday, Dec 13	|
 
 
 <a id="required-texts">
@@ -228,9 +244,7 @@ Zoom links and recordings will be made available during/after each session to ac
 ### Policy on Religious Observances
 
 Due dates can be revised for documented
-religious observances according to the specifications of the University Policy
-on Religious Observance
-(http://www.bu.edu/ctl/university-policies/policy-on-religious-observance/).
+religious observances according to the specifications of the <a href="http://www.bu.edu/ctl/university-policies/policy-on-religious-observance/">University Policy on Religious Observance.</a>
 Please make sure to communicate about religious observances as far in advance
 as possible (and no later than one week before the observance, per university
 policy) so that accommodations can be made.
@@ -239,7 +253,7 @@ policy) so that accommodations can be made.
 
 Assignment can be submitted on their
 scheduled due dates by 11.59.59 EST via Perusall/dropboxes or alternately they
-may be emailed to melosbor@bu.edu. Assessment and feedback will be provided
+may be emailed to melosbor at BU dot edu. Assessment and feedback will be provided
 via Perusall grading function. A late penalty of -10% per day will be
 assessed, though deadline extensions are available on a case by case basis (the
 earlier the instructor is informed of conflicts/extension needs, the better).
@@ -263,11 +277,10 @@ The community at Boston University has adopted the
 following Academic Conduct Code: “All students entering Boston University are
 expected to maintain high standards of academic honesty and integrity.”
 Obviously, the full text is more detailed. The expectation is that you will
-adhere to this code, as your instructor pledges to do as well. For more
-information, please visit this website:
-http://www.bu.edu/academics/policies/academic-conduct-code/. In keeping with
-this code, cheating, plagiarism, or any other form of academic dishonesty will
-not be tolerated (ACC III) and will be referred to the Dean’s Office.
+adhere to this code, as your instructor pledges to do as well. <a href="http://www.bu.edu/academics/policies/academic-conduct-code/.">For more
+information, please visit this website. </a> In keeping withthis code, cheating, 
+plagiarism, or any other form of academic dishonesty will not be tolerated
+(ACC III) and will be referred to the Dean’s Office.
 
 ### Proper use of Online Resources
 
