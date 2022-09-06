@@ -13,7 +13,7 @@ Course description
 **Day/Time:** M/W 10:10a-11:15a
 
 <a id="contents"></a>Contents:
-* <a href="#instructors">Instructors</a>
+* <a href="#instructors">Instructor</a>
 * <a href="#objectives">Course Objectives</a>
 * <a href="#prerequisites">Prerequisites</a>
 * <a href="#schedule">Schedule</a>
@@ -23,29 +23,45 @@ Course description
 
 <a id="instructors">
 
-## Instructors <a class="tiny-link" href="#">Top</a>
+## Instructor <a class="tiny-link" href="#">Top</a>
 
-**Instructor:** name
+**Instructor:** Melisa Osborne, Ph.D.
 
-* *Office Location:*
-* *Office Hours:*
-Appointments always welcome
+**Office Location:** LSEB 331
+**Office Hours:** TBD
+Appointments always welcome, please use the Acuity link in your syllabus
 
-* *Office Phone:* 
-* *Email:* 
-* *Twitter:* 
+**Office Phone:** 
+**Email:** melosbor at BU dot edu
+**Twitter:** #BF751 @MelisaLKO
 
-**Learning/Teaching Assistant:** name
+**Learning/Teaching Assistant:** Mae Rose Gott
 
-**Office hours:**
-
-**Contact info:**
+**Office Location:** Zoom Only
+**Office hours:** TBD
+**Contact info:** gott at BU dot edu
 
 <a id="objectives">
 
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
 
 Short description of course objectives
+
+### Course Description: 
+
+Modern research in the life sciences is an increasingly interdisciplinary endeavor 
+where new fields of study have developed at the interfaces of biology, chemistry, 
+physics, mathematics, and computer science.  In many instances, the development of
+these new fields goes hand in hand with development of new experimental approaches
+to surveying the content of the cell.  While, traditional molecular cell biology
+and biochemistry courses often focus on the basic details of cell physiology and
+macromolecular DNA, lipid, protein) structures, they too often neglect the quantitative
+aspects of number, scale, forces, etc. that are crucial to providing a larger context
+within living systems.   This course aims at reframing the basic concepts of cell
+and molecular biology in a quantitative context and providing a basic overview of
+some of the key approaches used to develop a quantitative framework inside the cell.
+The application of this detailed information to bioinformatics research problems
+will be explored.
 
 ### Course Principles and Classroom guidelines
 
@@ -65,31 +81,85 @@ of every individual voice.
 try to hear the truth in what is said instead of looking for exceptions to the case.
 * Assume everyone’s good intentions but also acknowledge the impact of saying
 something that hurts someone else, even if it is unintended.
+*Children and pets are welcome to attend on-line live sessions as long as you are
+considerate of other learners – I suggest keeping your microphone muted when not
+speaking to others to avoid outside noise for the rest of the class.
 
 
 <a id="prerequisites">
 ## Prerequisites <a class="tiny-link" href="#">Top</a>
 
-list of prerequisites, if any
+MSc. or PhD. program standing in Bioinformatics or consent of the instructor. 
 
 <a id="schedule">
 ## Course Schedule <a class="tiny-link" href="#">Top</a>
 
 {% include_relative schedule.md %}
-  
-<a id="assigned reading">
-## Course Schedule <a class="tiny-link" href="#">Top</a>
 
 <a id="grading">
 
 ## Grading <a class="tiny-link" href="#">Top</a>
 
-Grading policy
+**Problem sets (on slack #problem-sets):** Problem sets will be provided on a biweekly
+basis and due on Fridays as indicated in the assignment schedule. Problem sets will be
+submitted directly via Dropbox.  There will be room for discussing the answers to problem
+sets in the Monday classes.  Of the six problem sets, your top five scores will be used
+for your final grade.
+
+**Discussion board (on Slack #weekly-discussion):**  Each week there will be a different
+discussion topic on the online forum in BU blackboard.  I would like everyone to make an
+effort to contribute on a weekly basis, and making an effort will be used to assess
+participation.
+
+**Group Final Project (on Slack #final-project):**  Everyone will complete the final
+project in a small group (minimum group size, 2 students).  Group projects will involve
+ideating and completing a bionumber calculation of the group’s own choosing that has
+not been reported before in the Bionumbers Database.   
+
+The Final Project Assignment is posted on the course website and Week 7 lecture
+is dedicated to project ideas and expectations.  Projects require a group presentation
+to the class, a written abstract, and a final written report (~5 pages).   You will
+present to the class about your calculation during the last week of class (times, TBD).
+The written report will be due at the end of the final week of class (Friday).  Reports
+will be submitted via the BU blackboard site.  
+
+**Grading for the course is distributed among several components and assignments**
+Note – all final project components total to 40% of final grade.
+
+
+|                   Item                        |  Point Value  |   % of final grade    |
+|-----------------------------------------------|---------------|-----------------------|
+|Problem Sets (Top 5 grades)                    |100 (5 x 20pts)|           50          |
+|Final Project Proposal*                        |       10      |            5          |
+|Final Project Abstract/Annotated Bibliography* |       10      |            5          |
+|Final Project Virtual Presentation*            |       20      |           10          |
+|Final Project Report*                          |       40      |           20          |
+|Discussion Forum Participation (on Slack)      |       20      |           10          |
+|Total Points For Semester                      |      200      |          100          |
+ 
+
+*All project assignments combined are 80pts (40% of grade)
+
 
 <a id="required-texts">
 ## Required Texts <a class="tiny-link" href="#">Top</a>
 
-Course texts
+Required textbook “Cell Biology by the Numbers” by Ron Milo and Rob Philips (Garland)
+– available from Amazon and in PDF format (in several languages) at http://book.bionumbers.org/
+
+Research articles will be assigned for class discussion throughout the semester.  
+These are listed in the syllabus, with the last week to be determined.  All assigned 
+reading/or changes to assigned reading will be announced at least one week in advance.
+All research articles will be posted on the course BU Blackboard site for download.  
+ 
+### Notes on texts
+Course reading assignments will assume a basic understanding of the central dogma
+of biology and small molecules (metabolites, eg. ATP) and macromolecules (eg. DNA,
+RNA, proteins, lipids) key to the cell.  However, any subject material/information
+of this kind that you are responsible for will be provided via powerpoint slides 
+resented in lecture.  Below are a few possible sources to consult if you feel the
+need to brush up on details.  Again, these are not required texts!
+
 
 <a id="resources">
 
@@ -146,7 +216,7 @@ The instructors of this course pledge to:
 
 1. Learn and correctly pronounce everyone’s preferred name/nickname
 
-2. Use preferred pronouns for those who wish to indicate this to me/the class
+2. Use personal pronouns for those who wish to indicate this to me/the class
 
 3. Work to accommodate/prevent language related challenges (for instance I will avoid the use of idioms and slang)
 

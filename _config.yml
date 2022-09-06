@@ -44,3 +44,5 @@ collections:
         output: true
     assignments:
         output: true
+    mds:
+      output: true

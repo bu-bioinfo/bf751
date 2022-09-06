@@ -15,33 +15,36 @@ just read the code :P).
     <!--<th>Instructor</th>-->
   </tr>
 {% for lec in site.data.schedule %}
-
-{% if lec.Lec %}
-  <tr class="lec">
-  {% else %}
-  <tr class="nolec">
-  {% endif %}
-    <td>{{ lec.Date }}</td>
-    <td>{{ lec.Day }}</td>
-    <td>{{ lec.Lec }}</td>
-    <td>
-      {% if lec.Lec %}
-        {% if lec["Topic Slide Link"] %}
-          <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
-        {% else %}
-          {{ lec.Topic }}
-        {% endif %}
+    {% if lec.Lec %}
+      <tr class="lec">
       {% else %}
-          {{ lec.Topic }}
+      <tr class="nolec">
       {% endif %}
-    </td>
-    <td>
-        {% if lec.Assignment %}
-            <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
-        {% endif %}
-    </td>
-    <!-- add additional columns from the schedule.csv by name like below -->
-    <!--<td>{{ lec.Instructor }}</td>-->
-  </tr>
+        <td>{{ lec.Date }}</td>
+        <td>{{ lec.Day }}</td>
+        <td>{{ lec.Lec }}</td>
+        <td>
+          {% if lec.Lec %}
+            {% if lec["Topic Slide Link"] %}
+              <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
+            {% else %}
+              {{ lec.Topic }}
+            {% endif %}
+          {% else %}
+              {{ lec.Topic }}
+          {% endif %}
+        </td>
+        <td>
+            {% if lec.Assignment %}
+                {% if lec["Assignment Tag" %}]
+                    <a href="assignments/{{ lec["Assignment Tag"] }}.html">{{ lec.Assignment }}</a>
+                {% else %}
+                  {{ lec.Assignment }}
+                {% endif %}
+            {% endif %}
+        </td>
+        <!-- add additional columns from the schedule.csv by name like below -->
+        <!--<td>{{ lec.Instructor }}</td>-->
+      </tr>
 {% endfor %}
 </table>
