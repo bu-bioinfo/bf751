@@ -1,6 +1,6 @@
 # BF751 Reading Schedule - Fall 2022
 
-Jump to:
+|Jump to:					 |							   |							 |
 |----------------------------|-----------------------------|-----------------------------|
 | <a href="#wk01">Week 1</a> | <a href="#wk02">Week 2</a>  | <a href="#wk03">Week 3</a>  |
 | <a href="#wk04">Week 4</a> | <a href="#wk05">Week 5</a>  |  <a href="#wk06">Week 6</a> |
