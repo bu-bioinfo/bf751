@@ -10,7 +10,7 @@ Course description
 
 **Location:** EPC 207 (750 Comm Ave.)
 
-**Day/Time:** M/W 10:10a-11:15a
+**Day/Time:** M/W 10:10AM-11:55AM
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructor</a>
