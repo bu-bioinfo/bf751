@@ -64,15 +64,17 @@ some of the key approaches used to develop a quantitative framework inside the c
 The application of this detailed information to bioinformatics research problems
 will be explored.
 
-### Course Principles and Classroom guidelines
+### Course Principles and Classroom Guidelines
 
-In this class:
-* Feeling discomfort is normal - it is a sign of challenge and growth
-* It’s ok to make mistakes, so long as we are dedicated to becoming better
-* This room is a space for respectful dissent
-* The goal is not to agree - it is to gain a deeper understanding.
+*This class approaches teaching science with a growth mindset.  Rather than expecting 
+you to memorize facts and answers we focus on building a toolkit of resources and knowledge
+that you can use to tackle research problems in the future.
+*Sometimes there is not an obvious "right" answer - feeling the discomfort of that is normal.
+The goal is not to find THE ANSWER - it is to gain a deeper understanding!
+*It’s ok to make mistakes, so long as we are willing to take responsibility and dedicated 
+to becoming better people and scientists.
 
-Classroom ground rules:
+Proposed classroom ground rules:
 * Listen actively - respect others when they are talking.
 * Speak from your own experience instead of generalizing ("I" instead of "they," "we,"
 and "you")
