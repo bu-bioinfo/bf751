@@ -10,7 +10,7 @@
 
 
 <a id="wk01">
-## Week 1
+## Week 1 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -27,7 +27,7 @@
 
 
 <a id="wk02">
-## Week 2
+## Week 2 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -48,7 +48,7 @@
 
 
 <a id="wk03">
-## Week 3
+## Week 3 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -68,7 +68,7 @@
 
 
 <a id="wk04">
-## Week 4
+## Week 4 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -86,7 +86,7 @@
 
 
 <a id="wk05">
-## Week 5
+## Week 5 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -104,7 +104,7 @@
 
 
 <a id="wk06">
-## Week 6
+## Week 6 <a class="tiny-link" href="#">Top</a>
 
 **Readings**
 
@@ -116,7 +116,7 @@ Review papers from Milo group on bionumbers
 
 
 <a id="wk07">
-## Week 7
+## Week 7 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -133,7 +133,7 @@ Review papers from Milo group on bionumbers
 
 
 <a id="wk08">
-## Week 8
+## Week 8 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -149,7 +149,7 @@ Review papers from Milo group on bionumbers
 
 
 <a id="wk09">
-## Week 9
+## Week 9 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -163,7 +163,7 @@ Review papers from Milo group on bionumbers
 
 
 <a id="wk10">
-## Week 10
+## Week 10 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -179,7 +179,7 @@ Review papers from Milo group on bionumbers
 
 
 <a id="wk11">
-## Week 11
+## Week 11 <a class="tiny-link" href="#">Top</a>
 
 **Vignettes**
 
@@ -192,13 +192,13 @@ Review papers from Milo group on bionumbers
 * [Orth et al Flux Balance Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108565/)
 
 
-<a id="wk12">
-## Week 12: NO CLASS - Thanksgiving Recess
+<a id="wk12"> 
+## Week 12: NO CLASS - Thanksgiving Recess <a class="tiny-link" href="#">Top</a>
 
 
 <a id="wk13">
-## Week 13: Project work week
+## Week 13: Project work week <a class="tiny-link" href="#">Top</a>
 
 
 <a id="wk14">
-## Week 14: Bionumbers Presentations
+## Week 14: Bionumbers Presentations <a class="tiny-link" href="#">Top</a>

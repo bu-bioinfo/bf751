@@ -28,19 +28,19 @@ Course description
 
 **Instructor:** Melisa Osborne, Ph.D.
 
-**Office Location:** LSEB 331
-**Office Hours:** TBD
+* *Office Location:* LSEB 331
+* *Office Hours:* TBD
 Appointments always welcome, please use the Acuity link in your syllabus
 
-**Office Phone:** 
-**Email:** melosbor at BU dot edu
-**Twitter:** #BF751 @MelisaLKO
+* *Office Phone:* 
+* *Email:* melosbor at BU dot edu
+* *Twitter:* #BF751 @MelisaLKO
 
 **Learning/Teaching Assistant:** Mae Rose Gott
 
-**Office Location:** Zoom Only
-**Office hours:** TBD
-**Contact info:** gott at BU dot edu
+* *Office Location:* Zoom Only
+* *Office hours:* TBD
+* *Contact info:* gott at BU dot edu
 
 <a id="objectives">
 
@@ -82,7 +82,7 @@ of every individual voice.
 try to hear the truth in what is said instead of looking for exceptions to the case.
 * Assume everyone’s good intentions but also acknowledge the impact of saying
 something that hurts someone else, even if it is unintended.
-*Children and pets are welcome to attend on-line live sessions as long as you are
+* Children and pets are welcome to attend on-line live sessions as long as you are
 considerate of other learners – I suggest keeping your microphone muted when not
 speaking to others to avoid outside noise for the rest of the class.
 
@@ -140,7 +140,7 @@ Note – all final project components total to 50% of final grade.
 |**Total Points For Semester**					|    **200**    |        **100**        |
  
 
-* All project assignments combined are 100pts (50% of grade) *
+* All project assignments combined are 100pts (50% of grade)
 
 
 ## Assignment Due Dates
