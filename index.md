@@ -8,7 +8,7 @@ Course description
 
 **Semester:** Fall 2022
 
-**Location:** Room number
+**Location:** EPC 207 (750 Comm Ave.)
 
 **Day/Time:** M/W 10:10a-11:15a
 
