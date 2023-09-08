@@ -44,9 +44,13 @@ Understand how mathematical models have been used to expand understanding about 
 
 Apply mathematical models to further your own understanding of molecular biology
 
+Recognize assumptions versus facts in the rationalization and discussion of scientific findings.
+
+Connect experimental design (and statistical analysis) and input dataset to reliable output of end bioinformatic analysis (i.e. how to tell reliable data is going in so that a reliable data is coming out)
+
 Recognize that science relies on teamwork, and that the lone genius model of science is actually an exception, not a rule
 
-Recognize assumptions versus facts in the rationalization and discussion of scientific findings.
+Associate scientists from all groups and backgrounds with the history of research in biochemistry and molecular biology.
 
 ### Course Description: 
 
