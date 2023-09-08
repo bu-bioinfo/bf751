@@ -34,9 +34,19 @@ Course description
 
 <a id="objectives">
 
-## Course Objectives <a class="tiny-link" href="#">Top</a>
+## Learning Goals <a class="tiny-link" href="#">Top</a>
 
-Short description of course objectives
+Recognize similarities in the different steps of the central dogma (Universal processes, Highly conserved molecular machines, Multiple levels of control and regulation)
+
+Contrast size and time scales of the processes of information transfer with the size and time scales of cell division/organism reproduction
+
+Understand how mathematical models have been used to expand understanding about biological phenomenon
+
+Apply mathematical models to further your own understanding of molecular biology
+
+Recognize that science relies on teamwork, and that the lone genius model of science is actually an exception, not a rule
+
+Recognize assumptions versus facts in the rationalization and discussion of scientific findings.
 
 ### Course Description: 
 
