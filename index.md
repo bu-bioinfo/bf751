@@ -6,11 +6,11 @@ permalink: /
 
 Course description
 
-**Semester:** Fall 2022
+**Semester:** Fall 2023
 
-**Location:** EPC 207 (750 Comm Ave.)
+**Location:** LSEB 101A and Zoom
 
-**Day/Time:** M/W 10:10AM-11:55AM
+**Day/Time:** Fri 2pm
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructor</a>
@@ -28,19 +28,9 @@ Course description
 
 **Instructor:** Melisa Osborne, Ph.D.
 
-* *Office Location:* LSEB 331
-* *Office Hours:* TBD
-Appointments always welcome, please use the Acuity link in your syllabus
-
+* *Office Location:* LSEB 101A
 * *Office Phone:* 
 * *Email:* melosbor at BU dot edu
-* *Twitter:* #BF751 @MelisaLKO
-
-**Learning/Teaching Assistant:** Mae Rose Gott
-
-* *Office Location:* Zoom Only
-* *Office hours:* TBD
-* *Contact info:* gott at BU dot edu
 
 <a id="objectives">
 
@@ -149,14 +139,14 @@ Note – all final project components total to 50% of final grade.
 
 |			Assignment 			|			Material			|	   Due Date 	|
 |-------------------------------|-------------------------------|-------------------|
-|Problem Set 1					|		 Intro and Scale		|  Monday, Sept 19	|
-|Problem Set 2					|		Kinetics and Energy		|  Monday, Oct 3	|
-|Bionumbers Topic Proposal		|								|  Friday, Oct 21	|
-|Problem Set 3					|	   Machines and Genomes		|  Monday, Oct 24 	|
-|Problem Set 4					| Transcription and Translation	|  Monday, Nov 7	|
-|Problem Set 5					| Advanced Metabolism & topics	|  Monday, Nov 21	|
-|Bionumbers Group Presentations	|								|Dec 5 & 7 in class	|
-|FInal Bionumbers Report		|								| Tuesday, Dec 13	|
+|Problem Set 1					|		 Intro and Scale		|  Monday, Sept 18	|
+|Problem Set 2					|		Kinetics and Energy		|  Monday, Oct 2	|
+|Bionumbers Topic Proposal		|								|  Friday, Oct 20	|
+|Problem Set 3					|	   Machines and Genomes		|  Monday, Oct 23 	|
+|Problem Set 4					| Transcription and Translation	|  Monday, Nov 6	|
+|Problem Set 5					| Advanced Metabolism & topics	|  Monday, Nov 20	|
+|Bionumbers Group Presentations	|								|Dec 8 in class	|
+|FInal Bionumbers Report		|								| Monday Dec 18	|
 
 
 <a id="required-texts">
