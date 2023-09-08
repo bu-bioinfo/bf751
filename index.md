@@ -93,24 +93,18 @@ MSc. or PhD. program standing in Bioinformatics or consent of the instructor.
 
 ## Grading <a class="tiny-link" href="#">Top</a>
 
-**Problem sets (on slack #problem-sets):** Problem sets will be provided on a biweekly
+**Problem sets:** Problem sets will be provided on a biweekly
 basis and due on Fridays as indicated in the assignment schedule. Problem sets will be
 submitted directly via Dropbox.  There will be room for discussing the answers to problem
 sets in the Monday classes.  Of the six problem sets, your top five scores will be used
 for your final grade.
 
-**Discussion board (on Slack #weekly-discussion):**  Each week there will be a different
-discussion topic on the online forum in BU blackboard.  I would like everyone to make an
-effort to contribute on a weekly basis, and making an effort will be used to assess
-participation.
-
-**Group Final Project (on Slack #final-project):**  Everyone will complete the final
-project in a small group (minimum group size, 2 students).  Group projects will involve
-ideating and completing a bionumber calculation of the group’s own choosing that has
-not been reported before in the Bionumbers Database.   
+**Final Project:**  Everyone will complete the final project in a small group
+This will involve ideating and completing a bionumber calculation of one’s own choosing 
+that has not been reported before in the Bionumbers Database.   
 
 The Final Project Assignment is posted on the course website and Week 7 lecture
-is dedicated to project ideas and expectations.  Projects require a group presentation
+is dedicated to project ideas and expectations.  Projects require a presentation
 to the class, a written abstract, and a final written report (~5 pages).   You will
 present to the class about your calculation during the last week of class (times, TBD).
 The written report will be due at the end of the final week of class (Friday).  Reports
@@ -123,12 +117,11 @@ Note – all final project components total to 50% of final grade.
 
 |                   Item                        |  Point Value  |   % of final grade    |
 |-----------------------------------------------|---------------|-----------------------|
-|Problem Sets (Top 4 grades)                    | 80 (4 x 20pts)|           40          |
+|Problem Sets (Top 4 grades)                    | 100(5 x 20pts)|           50          |
 |Final Project Proposal*                        |       10      |            5          |
 |Final Project Abstract/Annotated Bibliography* |       10      |            5          |
 |Final Project Virtual Presentation*            |       20      |           10          |
 |Final Project Report*                          |       60      |           30          |
-|Discussion Forum Participation (on Slack)      |       20      |           10          |
 |**Total Points For Semester**					|    **200**    |        **100**        |
  
 
@@ -175,9 +168,7 @@ need to brush up on details.  Again, these are not required texts!
 
 ### Office Hours
 
-Scheduled for 2 hours weekly, based on best cohort
-availability. In person meetings with the instructor are always available upon
-request.
+In person meetings with the instructor are always available.
 
 ### Office of Disability and Access Services
 
@@ -230,8 +221,7 @@ The instructors of this course pledge to:
 
 ### Attendance
 
-Attendance is not used as a criterion for assessment in this course. This a primarily in-person course and lectures and discussion are held at BRB115.  
-Zoom links and recordings will be made available during/after each session to accomodate the ongoing COVID situation until Feb 18, 2022 and as directed by BU policy.
+This is a tutorial course.  While weekly attendance is highly encouraged to make sure you keep up with the material, there is not a penalty for absence.
 
 ### Policy on Religious Observances
 
