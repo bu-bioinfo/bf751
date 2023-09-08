@@ -110,6 +110,12 @@ present to the class about your calculation during the last week of class (times
 The written report will be due at the end of the final week of class (Friday).  Reports
 will be submitted via the BU blackboard site.  
 
+**Engagement (Perusall)** Everyone will read and comment on one article on Perusall weekly
+This will involve highlighting and adding hashtags and comments to assigned research articles on a weekly basis.  For each paper I expect you to indicate reading by
+(1) Generating two-five comments on the assigned reading
+(2) Posing at least one question on the reading
+(3) Interacting with at least one other question posed by another student or the instructor
+
 
 **Grading for the course is distributed among several components and assignments**
 Note – all final project components total to 50% of final grade.
@@ -117,11 +123,12 @@ Note – all final project components total to 50% of final grade.
 
 |                   Item                        |  Point Value  |   % of final grade    |
 |-----------------------------------------------|---------------|-----------------------|
-|Problem Sets (Top 4 grades)                    | 100(5 x 20pts)|           50          |
+|Problem Sets (Top 4 grades)                    | 80(4 x 20pts)|           40           |
 |Final Project Proposal*                        |       10      |            5          |
 |Final Project Abstract/Annotated Bibliography* |       10      |            5          |
 |Final Project Virtual Presentation*            |       20      |           10          |
 |Final Project Report*                          |       60      |           30          |
+|Engagement (Perusall)                          |       20      |           10          |
 |**Total Points For Semester**					|    **200**    |        **100**        |
  
 
