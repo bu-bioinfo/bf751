@@ -70,27 +70,17 @@ will be explored.
 
 ### Course Principles and Classroom Guidelines
 
-*This class approaches teaching science with a growth mindset.  Rather than expecting 
-you to memorize facts and answers we focus on building a toolkit of resources and knowledge
-that you can use to tackle research problems in the future.
-*Sometimes there is not an obvious "right" answer - feeling the discomfort of that is normal.
-The goal is not to find THE ANSWER - it is to gain a deeper understanding!
-*It’s ok to make mistakes, so long as we are willing to take responsibility and dedicated 
+*Rather than expecting you to memorize facts and answers we focus on building a toolkit of resources
+and knowledge that you can use to tackle research problems in the future.
+*Sometimes there is not an obvious "right" answer.  The goal is not to find "THE ANSWER";
+it is to gain a deeper understanding!
+*It’s ok to make mistakes, so long as we are willing to take responsibility and be dedicated 
 to becoming better people and scientists.
 
-Proposed classroom ground rules:
-* Listen actively - respect others when they are talking.
-* Speak from your own experience instead of generalizing ("I" instead of "they," "we,"
-and "you")
-* Participate to the fullest of your ability - community growth depends on the inclusion
-of every individual voice.
-* Although no one experience or example will prove accurate 100% of the time, we will
-try to hear the truth in what is said instead of looking for exceptions to the case.
-* Assume everyone’s good intentions but also acknowledge the impact of saying
-something that hurts someone else, even if it is unintended.
-* Children and pets are welcome to attend on-line live sessions as long as you are
-considerate of other learners – I suggest keeping your microphone muted when not
-speaking to others to avoid outside noise for the rest of the class.
+Proposed classroom norms:
+(1) try you best
+(2) be respectful of others
+If you have these two things - everything else follows
 
 
 <a id="prerequisites">
